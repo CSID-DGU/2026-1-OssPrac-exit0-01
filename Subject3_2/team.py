@@ -6,8 +6,9 @@ members = [
     {
         "id": 1,
         "name": "김보성",
-        "major": "정보통신공학과",
+        "major": "정보통신공학과",     
         "role": "Subject3_1 담당",
+        "email": "boseong@example.com",
         "github": "https://github.com/BoseongKim02",
         "skills": [
             {"icon": "devicon-python-plain colored", "name": "Python"},
@@ -19,6 +20,7 @@ members = [
         "name": "한규민",
         "major": "정보통신공학과",
         "role": "HTML 디자인 담당",
+        "email": "gyumin@example.com",
         "github": "https://github.com/hgm0827",
         "skills": [
             {"icon": "devicon-python-plain colored", "name": "Python"},
@@ -31,6 +33,7 @@ members = [
         "major": "정보통신공학과",
         "role": "Flask 코드 담당",
         "github": "https://github.com/guswls-714",
+        "email": "hyunjin@example.com",
         "skills": [
             {"icon": "devicon-html5-plain colored", "name": "HTML"},
             {"icon": "devicon-bootstrap-plain colored", "name": "Bootstrap"}
