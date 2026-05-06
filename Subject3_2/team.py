@@ -2,9 +2,45 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
+members = [
+    {
+        "id": 1,
+        "name": "김보성",
+        "major": "정보통신공학과",
+        "role": "Subject3_1 담당",
+        "github": "https://github.com/BoseongKim02",
+        "skills": [
+            {"icon": "devicon-python-plain colored", "name": "Python"},
+            {"icon": "devicon-flask-original", "name": "Flask"}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "한규민",
+        "major": "정보통신공학과",
+        "role": "HTML 디자인 담당",
+        "github": "https://github.com/hgm0827",
+        "skills": [
+            {"icon": "devicon-python-plain colored", "name": "Python"},
+            {"icon": "devicon-github-original", "name": "GitHub"}
+        ]
+    },
+    {
+        "id": 3,
+        "name": "김현진",
+        "major": "정보통신공학과",
+        "role": "Flask 코드 담당",
+        "github": "https://github.com/guswls-714",
+        "skills": [
+            {"icon": "devicon-html5-plain colored", "name": "HTML"},
+            {"icon": "devicon-bootstrap-plain colored", "name": "Bootstrap"}
+        ]
+    }
+]
+
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', members=members)
 
 @app.route('/input', methods=['GET'])
 def input_page():
