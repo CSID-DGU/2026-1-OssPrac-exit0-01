@@ -19,7 +19,7 @@ members = [
         "id": 2,
         "name": "한규민",
         "major": "정보통신공학과",
-        "role": "HTML 디자인 담당",
+        "role": "Subject3_2의 HTML 디자인 담당",
         "email": "gyumin@example.com",
         "github": "https://github.com/hgm0827",
         "skills": [
@@ -31,7 +31,7 @@ members = [
         "id": 3,
         "name": "김현진",
         "major": "정보통신공학과",
-        "role": "Flask 코드 담당",
+        "role": "Subject3_2의 Flask 코드 담당",
         "github": "https://github.com/guswls-714",
         "email": "hyunjin@example.com",
         "skills": [
