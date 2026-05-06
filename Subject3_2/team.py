@@ -8,6 +8,7 @@ members = [
         "name": "김보성",
         "major": "정보통신공학과",     
         "role": "Coordinator 담당",
+        "phone" : "010-0000-0000",
         "email": "boseong@example.com",
         "github": "https://github.com/BoseongKim02",
         "skills": [
@@ -20,6 +21,7 @@ members = [
         "name": "한규민",
         "major": "정보통신공학과",
         "role": "Recorder 담당",
+        "phone" : "010-0000-0000",
         "email": "gyumin@example.com",
         "github": "https://github.com/hgm0827",
         "skills": [
@@ -32,6 +34,7 @@ members = [
         "name": "김현진",
         "major": "정보통신공학과",
         "role": "Gatekeeper, Timer 담당",
+        "phone" : "010-0000-0000",
         "github": "https://github.com/guswls-714",
         "email": "hyunjin@example.com",
         "skills": [
