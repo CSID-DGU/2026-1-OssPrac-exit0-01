@@ -11,6 +11,8 @@ members = [
         "phone": "010-0000-0000",
         "email": "boseong@example.com",
         "github": "https://github.com/BoseongKim02",
+        "photo": "https://via.placeholder.com/150",
+        "intro": "팀의 조율을 담당하고 있는 김보성입니다.",
         "mbti": "ENTJ",
         "introduce": "안녕하세요! 팀의 조율을 담당하고 있는 김보성입니다.",
         "skills": [
@@ -26,6 +28,8 @@ members = [
         "phone": "010-0000-0000",
         "email": "gyumin@example.com",
         "github": "https://github.com/hgm0827",
+        "photo": "https://via.placeholder.com/150",
+        "intro": "기록을 담당하고 있는 한규민입니다.",
         "mbti": "ISTJ",
         "introduce": "안녕하세요! 기록을 담당하고 있는 한규민입니다.",
         "skills": [
@@ -41,6 +45,8 @@ members = [
         "phone": "010-0000-0000",
         "email": "hyunjin@example.com",
         "github": "https://github.com/guswls-714",
+        "photo": "https://via.placeholder.com/150",
+        "intro": "Gatekeeper와 Timer를 담당하고 있는 김현진입니다.",
         "mbti": "INFP",
         "introduce": "안녕하세요! Gatekeeper와 Timer를 담당하고 있는 김현진입니다.",
         "skills": [
