@@ -4,8 +4,6 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCSID-DGU%2F2026-1-OssPrac-exit0-01&count_bg=%234F46E5&title_bg=%237C3AED&icon=github.svg&icon_color=%23FFFFFF&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
-
 **2026년 1학기 오픈소스소프트웨어실습 | 동국대학교 정보통신공학과**
 
 </div>
